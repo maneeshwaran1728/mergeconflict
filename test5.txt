@@ -1,1 +1,1 @@
-city : Bangular
+Bangular
